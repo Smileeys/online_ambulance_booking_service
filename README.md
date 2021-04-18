@@ -1,4 +1,3 @@
-![PHP Composer](https://github.com/MehaRima/online_ambulance_booking_service/workflows/PHP%20Composer/badge.svg?branch=master)
 
 # AAROGYA
 *Online Ambulance Booking Service*
@@ -33,9 +32,6 @@ This ambulance booking website is based on
 [GitHub Page link](https://meharima.github.io/online_ambulance_booking_service/)
 
 ## Updates on *30.06.2020*
-
-# Video Presentation 
-[Watch it here](https://drive.google.com/file/d/1w8F9EIBCSRhaCdUpwywr_XFmVF3TUvRx/view?usp=sharing)
 
 # Documentation
 [Documentation](https://docs.google.com/document/d/1alv433NpcmSsteQpbXR5OGWcF-3XErqJuvVmkBET-8g/edit?usp=sharing)
